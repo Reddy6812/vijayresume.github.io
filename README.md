@@ -1,1 +1,0 @@
-# vijayresume.github.io
