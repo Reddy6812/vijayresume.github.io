@@ -649,26 +649,26 @@ a:focus {
 /**********************************/
 /*********** Skills CSS **********/
 /**********************************/
-.service {
+.skills {
     position: relative;
     padding: 60px 30px 30px 30px;
     background: #ffffff;
     border-bottom: 30px solid #F6D155;
 }
 
-.service .srv-col {
+.skills .srv-col {
     position: relative;
     width: 100%;
     margin-bottom: 30px;
 }
 
-.service .srv-col i {
+.skills .srv-col i {
     font-size: 30px;
     color: #FF6F61;
     margin-bottom: 15px;
 }
 
-.service .srv-col h3 {
+.skills .srv-col h3 {
     font-size: 20px;
     font-weight: 700;
     letter-spacing: 2px;
